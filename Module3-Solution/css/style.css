@@ -1,3 +1,7 @@
+html, body {
+	font-family: 'Montserrat', sans-serif;
+}
+
 /*Header*/
 
 #header-nav {
@@ -43,7 +47,3 @@ li {
 #nav-list a {
 
 }*/
-
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-	
-}
